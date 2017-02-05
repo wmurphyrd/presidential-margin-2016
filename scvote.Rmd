@@ -4,7 +4,9 @@ output: html_notebook
 ---
 
 This is an analysis of the margin of victory in the 2016 U.S. Presidential
-Election. BEcause of 
+Election. The workings of the U.S. Electoral college mean that narrow victories 
+in key states can have a large impact on election results. This analysis
+explores how many votes really decided the election. 
 
 ```{r setup, message=FALSE}
 library(rvest)
